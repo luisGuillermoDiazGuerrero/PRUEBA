@@ -1,0 +1,67 @@
+
+html{
+background-color: pink;
+}
+
+body{
+    margin:auto;
+    background-color:pink;
+    text-align:justify;
+  
+}
+
+.principal{
+    background-color:blanchedalmond;
+    width: 1390px;
+    height: 740px;
+    margin: auto;
+    border-left:10px;
+    border-right:10px;
+    border: outset 5px  purple;
+ 
+
+}
+.img{
+    width:200px;
+    height:300px;
+    display:block;
+    margin: auto;
+}
+
+.contenedor{
+    width: 311px;
+    height: 700px;
+    float: left;
+    margin: auto;
+    background-color: purple;
+    text-align: justify;
+    border-style:dashed;
+border-right: 10px;
+border-bottom: 10px;
+margin: 2px;
+ border: dotted 5px black;
+ padding: 10px;
+}
+.titulo{
+text-align:center;
+text-shadow:5px 5px white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.justi{
+    text-align: justify;
+}
+.ciudad{
+    text-align: center;
+    color: aliceblue;
+}
+.nombre{
+    text-align: center;
+}
+
+.alin{
+    text-align: justify;
+    padding: 40px;;
+}
+.color{
+    color: blue;
+}
